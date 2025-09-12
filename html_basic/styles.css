@@ -1,6 +1,8 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: blanchedalmond;
+    color: rgb(230, 139, 3);
 }
 
 header {
@@ -23,6 +25,7 @@ aside {
     flex: 1;
     padding: 10px;
     width: 33%;
+    background-color: rgb(16, 36, 30);
 }
 
 footer {
