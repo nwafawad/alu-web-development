@@ -16,11 +16,13 @@ main {
 article {
     flex: 2;
     padding: 10px;
+    width: 67%;
 }
 
 aside {
     flex: 1;
     padding: 10px;
+    width: 33%;
 }
 
 footer {
