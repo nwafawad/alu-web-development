@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+article {
+    flex: 2;
+    padding: 10px;
+}
+
+aside {
+    flex: 1;
+    padding: 10px;
+}
+
+footer {
+    width: 100%;
+}
